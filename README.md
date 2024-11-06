@@ -7,13 +7,9 @@ The code files are:
 - main.py : main file of the task that gets the input arguments, run the similarity calculator, and save the result file.
 - data_loader.py : this file reads the input file in txt format and extracts the two sentences from each line of file.
 - sentencesimilarity.py : it calculate the similarity between the sentence couples in the input dataset with respect to sentence embedder of choice.
-
-The zip files are:
 - infersent.zip : this file containts the code for infersent tool which is downloaded from https://github.com/facebookresearch/InferSent github repository.
 - doc2vec_pretrained: this file contains the doc2vec pretrained model which is downloaded from https://github.com/jhlau/doc2vec github repository with name of Associated Press News DBOW (0.6GB).
 
-The other folder:
-results: this folder contains the results of the sentence similarity code for each dataset and pretrained model
 
 How to run:
 
